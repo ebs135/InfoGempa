@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ebs135.InfoGempa", "ebs135.InfoGempa\ebs135.InfoGempa.vbproj", "{F099F7A9-F389-44BF-AED7-B21D8B8E7EEF}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs16
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ebs135.InfoGempa\\ebs135.InfoGempa.vbproj
+		SccProjectName1 = ebs135.InfoGempa
+		SccLocalPath1 = ebs135.InfoGempa
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F099F7A9-F389-44BF-AED7-B21D8B8E7EEF}.Debug|x86.ActiveCfg = Debug|x86
+		{F099F7A9-F389-44BF-AED7-B21D8B8E7EEF}.Release|x86.ActiveCfg = Release|x86
+		{F099F7A9-F389-44BF-AED7-B21D8B8E7EEF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
